@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 My first machine learning project using Kaggle's Credit Card Fraud Detection dataset.
-![Project Thumbnail](thumbnail.png)
+![Project Thumbnail](thumnail.pnj)
 
 
 ## Steps:
